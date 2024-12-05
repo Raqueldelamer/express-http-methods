@@ -4,16 +4,16 @@
 Understand and implement basic HTTP methods (GET and POST) in an Express application. Handle URL and query parameters in Express routes, and practice sending and receiving JSON data.
 
 ## **Part 1: Create and Clone Your GitHub Repository**
-[x] Create a New GitHub Repository:
-[x] Name your repository express-http-methods.
-[x] Initialize it with a .gitignore for Node.js and a README.md.
-[x] Clone Your Repository:
+- [x] Create a New GitHub Repository:
+- [x] Name your repository express-http-methods.
+- [x] Initialize it with a .gitignore for Node.js and a README.md.
+- [x] Clone Your Repository:
 
 ## **Part 2: Setup and Configuration**
 
-[x] Within your project directory, run npm init -y to generate necessary files.
-[x] Install Dependencies:
-[x] Add the necessary dependencies with npm install express.
+- [x] Within your project directory, run npm init -y to generate necessary files.
+- [x] Install Dependencies:
+- [x] Add the necessary dependencies with npm install express.
 
 ## **Part 3: Implement Routes for GET and POST Requests**
 - [x] Setup Basic Routing:
